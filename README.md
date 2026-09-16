@@ -20,32 +20,51 @@ My interests include computer vision, intelligent medical imaging, multimodal bi
 
 Currently, I’m expanding my software development skills by learning React and Node.js, while exploring how modern web technologies and machine learning can be combined to build practical, intelligent applications.
 
-### Currently Working With
+    <!-- ═══════════════════════════════════════════════════════ -->
+<!--                    CURRENT FOCUS                        -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-* **React**
-* **Node.js & Express**
-* **MySQL**
-* **REST APIs**
-* **Vite**
-* **Git & GitHub**
+<div align="center">
 
----
-
-### GitHub Activity
-
-<p align="center">
-  <img
-    height="150"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beeghta&theme=transparent"
-    alt="Beeghta's GitHub profile details"
-  />
+  <br>
 
   <img
-    height="150"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beeghta&theme=transparent"
-    alt="Beeghta's repositories by language"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"
+    width="100%"
   />
-</p>
+
+  <br>
+
+  <h2>✦ Current Focus</h2>
+
+  <p>
+    <b>Software Development</b>
+    &nbsp;•&nbsp;
+    <b>Artificial Intelligence</b>
+    &nbsp;•&nbsp;
+    <b>Computer Vision</b>
+  </p>
+
+  <p>
+    Building the bridge between modern software engineering<br>
+    and intelligent computational systems.
+  </p>
+
+  <br>
+
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=68A063">
+  <img src="https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=FFD43B">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-20232A?style=flat-square&logo=tensorflow&logoColor=FF6F00">
+  <img src="https://img.shields.io/badge/Computer%20Vision-20232A?style=flat-square&logo=opencv&logoColor=5C3EE8">
+
+  <br><br>
+
+  <sub>From web development → intelligent systems</sub>
+
+  <br><br>
+
+</div>
 <!--
 **beeghta/beeghta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
