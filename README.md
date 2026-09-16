@@ -34,24 +34,18 @@ Currently, I’m expanding my software development skills by learning React and 
 ### GitHub Activity
 
 <p align="center">
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Beeghta&theme=transparent">
-    <img
-      height="100"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Beeghta&theme=transparent"
-      alt="Beeghta's GitHub statistics"
-    />
-  </a>
+  <img
+    height="150"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beeghta&theme=transparent"
+    alt="Beeghta's GitHub profile details"
+  />
 
-  <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Beeghta&theme=transparent">
-    <img
-      height="100"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Beeghta&theme=transparent"
-      alt="Beeghta's repositories by language"
-    />
-  </a>
+  <img
+    height="150"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beeghta&theme=transparent"
+    alt="Beeghta's repositories by language"
+  />
 </p>
-
-
 <!--
 **beeghta/beeghta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
