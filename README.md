@@ -20,9 +20,6 @@ My interests include computer vision, intelligent medical imaging, multimodal bi
 
 Currently, I’m expanding my software development skills by learning React and Node.js, while exploring how modern web technologies and machine learning can be combined to build practical, intelligent applications.
 
-    <!-- ═══════════════════════════════════════════════════════ -->
-<!--                    CURRENT FOCUS                        -->
-<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
